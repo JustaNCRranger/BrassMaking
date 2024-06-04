@@ -1,0 +1,24 @@
+[ 
+ {
+  "id": "brass_small",
+  "type": "AMMO",
+  "category": "spare_parts",
+  "name": {
+    "str_sp": "brass"
+  },
+  "description": "A small unit of brass, you can fit maybe a dozen of them on your palm.",
+  "weight": "5 g",
+  "volume": "5 ml",
+  "//": "cartridge brass is the type of brass used in bullet casings, its composed of 70% copper and 30% zinc with some impurities.",
+  "price": "1 USD",
+  "price_postapoc": "1 USD",
+  "count": 100,
+  "stack_size": 200,
+  "material": [
+    "brass"
+  ],
+  "symbol": "/",
+  "color": "yellow",
+  "ammo_type": "components"
+}
+]
