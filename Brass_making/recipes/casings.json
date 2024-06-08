@@ -2,6 +2,7 @@
 {
 	"result": "45_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -17,8 +18,26 @@
 	"byproducts": [ [ "scrap_brass", 1 ], [ "brass_small", 1 ] ]
   },
   {
+    "result": "123ln_casing",
+    "id_suffix": "Brass",
+    "type": "recipe",
+    "activity_level": "LIGHT_EXERCISE",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "difficulty": 3,
+    "skills_required": [ "gun", 4 ],
+    "time": "50 m",
+	"charges": 200,
+    "book_learn": [ [ "manual_rifle", 5 ], [ "recipe_bullets", 3 ] ],
+	"using": [ [ "forging_standard", 1 ] ],
+    "tools": [ [ [ "casting_mold", -1 ] ], [ [ "123ln_casing", -1 ] ] ],
+    "components": [ [ [ "1l_brass", 1 ] ] ]
+  },
+  {
 	"result": "44_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -36,6 +55,7 @@
   {
 	"result": "223_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -50,8 +70,26 @@
     "components": [ [ [ "1l_brass", 1 ] ] ]
   },
   {
+	"result": "270win_casing",
+    "type": "recipe",
+    "id_suffix": "Brass",
+    "activity_level": "BRISK_EXERCISE",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "difficulty": 3,
+    "skills_required": [ "gun", 4 ],
+    "time": "50 m",
+	"charges": 200,
+    "book_learn": [ [ "manual_rifle", 5 ], [ "recipe_bullets", 3 ] ],
+	"using": [ [ "forging_standard", 1 ] ],
+    "tools": [ [ [ "casting_mold", -1 ] ], [ [ "270win_casing", -1 ] ] ],
+    "components": [ [ [ "1l_brass", 1 ] ] ]
+  },
+  {
 	"result": "308_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -68,6 +106,7 @@
   {
 	"result": "762_51_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -84,6 +123,7 @@
   {
 	"result": "3006_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -100,6 +140,7 @@
   {
 	"result": "303_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -116,6 +157,7 @@
   {
 	"result": "300_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -132,6 +174,7 @@
    {
 	"result": "450_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -148,6 +191,7 @@
      {
 	"result": "50_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -164,6 +208,7 @@
      {
 	"result": "338lapua_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -180,6 +225,7 @@
      {
 	"result": "762_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -196,6 +242,7 @@
     {
 	"result": "762R_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -212,6 +259,7 @@
     {
 	"result": "300blk_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -228,6 +276,7 @@
     {
 	"result": "30carbine_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -244,6 +293,7 @@
   {
 	"result": "9mm_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -261,6 +311,7 @@
   {
 	"result": "357mag_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -278,6 +329,7 @@
   {
 	"result": "357sig_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -293,8 +345,45 @@
 	"byproducts": [ [ "scrap_brass", 1 ], [ "brass_small", 1 ] ]
   },
   {
+	"result": "460_casing",
+    "type": "recipe",
+    "id_suffix": "Brass",
+    "activity_level": "BRISK_EXERCISE",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "difficulty": 3,
+    "skills_required": [ "gun", 4 ],
+    "time": "50 m",
+	"charges": 300,
+    "book_learn": [ [ "manual_pistol", 5 ], [ "recipe_bullets", 3 ] ],
+	"using": [ [ "forging_standard", 1 ] ],
+    "tools": [ [ [ "casting_mold", -1 ] ], [ [ "460_casing", -1 ] ] ],
+    "components": [ [ [ "1l_brass", 1 ] ] ],
+	"byproducts": [ [ "scrap_brass", 1 ], [ "brass_small", 1 ] ]
+  },
+  {
+	"result": "380_casing",
+    "type": "recipe",
+    "id_suffix": "Brass",
+    "activity_level": "BRISK_EXERCISE",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "difficulty": 3,
+    "skills_required": [ "gun", 4 ],
+    "time": "50 m",
+	"charges": 300,
+    "book_learn": [ [ "manual_pistol", 5 ], [ "recipe_bullets", 3 ] ],
+	"using": [ [ "forging_standard", 1 ] ],
+    "tools": [ [ [ "casting_mold", -1 ] ], [ [ "380_casing", -1 ] ] ],
+    "components": [ [ [ "1l_brass", 1 ] ] ],
+	"byproducts": [ [ "scrap_brass", 1 ], [ "brass_small", 1 ] ]
+  },
+  {
 	"result": "50ae_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -312,6 +401,7 @@
   {
 	"result": "9x18mm_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -329,6 +419,7 @@
   {
 	"result": "32_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -346,6 +437,7 @@
   {
 	"result": "38_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -363,6 +455,7 @@
   {
 	"result": "38super_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -380,6 +473,7 @@
   {
 	"result": "40_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -397,6 +491,7 @@
   {
 	"result": "10mm_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -414,6 +509,7 @@
   {
 	"result": "45colt_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -431,6 +527,7 @@
   {
 	"result": "46mm_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -448,6 +545,7 @@
   {
 	"result": "57mm_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
@@ -465,6 +563,7 @@
   {
 	"result": "545_casing",
     "type": "recipe",
+    "id_suffix": "Brass",
     "activity_level": "BRISK_EXERCISE",
     "category": "CC_OTHER",
     "subcategory": "CSC_OTHER_MATERIALS",
