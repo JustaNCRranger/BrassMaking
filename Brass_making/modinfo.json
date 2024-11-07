@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "BrassMaking",
+    "name": "BrassMaking",
+    "authors": [ "Just_a_NCR_ranger" ],
+    "description": "Make bullet casings with brass ingots and make brass by alloying it. This is my first mod, thanks for the folks on the discord for the help.",
+    "//": "Version 1.0",
+	"category": "content",
+    "dependencies": [ "dda" ]
+  }
+]

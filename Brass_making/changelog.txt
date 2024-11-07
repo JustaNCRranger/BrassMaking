@@ -1,0 +1,10 @@
+25/05/2024 17:29
+-changed the casing manufacturing recipes to require a forge and the casing
+-fixed a bug that crashed the game on charecter creation
+
+25/05/2024 12:19
+- added a recipe to alloy copper and zinc to make small brass
+- added a "already has a chosen casing" requirement to the casing manufacturing récipe
+
+01/06/2024 07:21
+- Fixed a small error in the small brass crafting récipe

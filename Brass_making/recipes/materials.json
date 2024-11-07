@@ -1,0 +1,37 @@
+[
+{
+    "result": "scrap_brass",
+    "type": "recipe",
+    "activity_level": "BRISK_EXERCISE",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_MATERIALS",
+    "skill_used": "fabrication",
+    "difficulty": 1,
+    "time": "15 m",
+    "batch_time_factors": [ 90, 4 ],
+    "reversible": false,
+    "autolearn": true,
+    "using": [ [ "forging_standard", 1 ] ],
+    "tools": [ [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ] ],
+    "components": [ [ [ "223_casing", 7 ], [ "22_casing", 11 ], [ "3006_casing", 7 ], [ "123ln_casing", 7 ], [ "270win_casing", 7 ], [ "303_casing", 7 ], [ "300_casing", 7 ], [ "308_casing", 7 ], [ "32_casing", 11 ], [ "38_casing", 11 ], [ "38super_casing", 11 ], [ "40_casing", 11 ], [ "10mm_casing", 11 ], [ "44_casing", 11 ], [ "454_casing", 7 ], [ "45colt_casing", 11 ], [ "4570_casing", 7 ], [ "50beowulf_casing", 7 ], [ "450_casing", 7 ], [ "brass_small", 60 ], [ "45_casing", 11 ], [ "46mm_casing", 11 ], [ "460_casing", 7 ], [ "500_casing", 7 ], [ "50_casing", 4 ], [ "338lapua_casing", 7 ], [ "77arisaka_casing", 7 ], [ "545_casing", 7 ], [ "57mm_casing", 11 ], [ "458wm_casing", 7 ], [ "762R_casing", 7 ], [ "762_casing", 7 ], [ "762_25_casing", 7 ], [ "9mm_casing", 11 ], [ "357sig_casing", 11 ], [ "357mag_casing", 11 ], [ "9x18mm_casing", 11 ], [ "380_casing", 7 ], [ "300blk_casing", 7 ], [ "30carbine_casing", 7 ], [ "50ae_casing", 11 ], [ "762_51_casing", 7 ] ] ]
+},
+{
+	"result": "brass_small",
+	"type": "recipe",
+	"activity_level": "BRISK_EXERCISE",
+	"category": "CC_OTHER",
+	"subcategory": "CSC_OTHER_MATERIALS",
+	"skill_used": "fabrication",
+	"difficulty": 1,
+	"time": "15 m",
+	"batch_time_factors": [ 90, 4 ],
+	"charges": 100,
+	"book_learn": [ [ "metal_casting_book", 2 ] ],
+	"using": [ [ "forging_standard", 1 ] ],
+	"tools": [ [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ] ],
+    "components": [ 
+	[ [ "copper", 70 ] ],
+	[ [ "zinc_metal", 30] ]
+    ]
+}
+]
